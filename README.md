@@ -87,7 +87,7 @@ run main.py --model {select model} --loss-function {select loss function} --augm
   
 To evaluate the model in Spyder IDE use the code below:
 ```python
-run main.py --data {select training dataset} --loss-function {select loss function} --evaluate
+run main.py --data {select model} --loss-function {select loss function} --evaluate
 ```
 
 ## Loss Functions & Thresholding
